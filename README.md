@@ -2,6 +2,9 @@
 
 This project is an AI-powered chat application designed to facilitate understanding and interaction with public GitHub repositories. It allows users to gain insights into codebase structure, summarize functionalities, and receive detailed answers to questions about the code, enhancing code comprehension and exploration.
 
+<img width="740" height="402" alt="image" src="https://github.com/user-attachments/assets/e6e77a6c-84ce-412b-8774-e9ebbe9ba569" />
+
+
 ## Features
 
 *   **Chat with any public GitHub repository:** Simply provide a repository URL to start a conversation.
@@ -64,4 +67,3 @@ Contributions are welcome! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-# Github-Repo-Chat
