@@ -1,0 +1,7 @@
+
+{
+  "name": "GitHub Repo Chat AI",
+  "description": "An intelligent chat application that allows users to interact with and ask questions about GitHub repositories. It uses gitingest.com for contextual information retrieval from the repository and leverages the Gemini API for generating insightful answers.",
+  "requestFramePermissions": ["tts"],
+  "prompt": ""
+}

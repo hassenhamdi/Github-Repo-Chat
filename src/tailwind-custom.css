@@ -1,0 +1,7 @@
+/* Custom Tailwind CSS for specific elements */
+.prose pre {
+  word-wrap: normal; /* Ensure normal wrapping for pre */
+  white-space: pre; /* Maintain preformatted whitespace */
+  overflow-x: auto; /* Enable horizontal scrolling */
+  max-width: 100%; /* Ensure it doesn't overflow its parent */
+}
