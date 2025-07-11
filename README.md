@@ -1,4 +1,4 @@
-# GitHub Repository Chat AI
+# GitHub Repository Chat Assistant.
 
 This project is an AI-powered chat application designed to facilitate understanding and interaction with public GitHub repositories. It allows users to gain insights into codebase structure, summarize functionalities, and receive detailed answers to questions about the code, enhancing code comprehension and exploration.
 
